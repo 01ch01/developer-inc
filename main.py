@@ -1,5 +1,4 @@
 from os import name, system
-from random import randint, sample
 
 # define global variables
 inventory = {
