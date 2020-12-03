@@ -118,14 +118,14 @@ def presentation():
 
 def showMenu():
     print("""\n
-      ********************
+      *********************
       ** DEVELOPER, INC. **
-      ********************
-      --------------------
-      | 0 - Iniciar Jogo |
-      | 1 - Créditos     |
-      | 2 - Sair         |
-      --------------------
+      *********************
+      ---------------------
+      | 0 - Iniciar jogo  |
+      | 1 - Créditos      |
+      | 2 - Sair          |
+      ---------------------
     \n""")
 
 
@@ -305,7 +305,7 @@ def start_game():
 def show_credits():
     print(f"""\n
         {'*'*48}
-            Desenvolvido com ❤️ por Cláudio Henrique
+            Desenvolvido com ❤️  por Cláudio Henrique
         {'*'*48}
     """)
 
